@@ -1,9 +1,9 @@
-<p align="center">THUNDER TERRITORIAL</p>
+<h1 align="center">THUNDER TERRITORIAL</h1>
 
 <p align="center">
-<span class="alert alert-warning">Status : Release</span>
-<span class="alert alert-info">Versi : 1.0</span>
-
+<span style="background-color:#d9e0b0">Status : Release</span> | 
+<span style="background-color:#f0a4ab">Versi : 1.0</span>
+</p>
 ## Introduction
 
 Thunder Territorial menyediakan data wilayah administratif mulai dari negara, provinsi, regensi, distrik hingga desa. Versi 1.0 release khusus untuk wilayah Indonesia.
