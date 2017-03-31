@@ -1,9 +1,9 @@
 <?php 
 
-namespace Thunderlabid\Territorial\Models;
+namespace Thunderlabid\Immigration\Models;
 
 use Illuminate\Database\Eloquent\Model;
-use Thunderlabid\Territorial\Models\Traits\IGuidTrait;
+use Thunderlabid\Immigration\Models\Traits\IGuidTrait;
 
 use Illuminate\Database\Eloquent\SoftDeletes;
 use Validator, Exception;
@@ -14,7 +14,7 @@ use Validator, Exception;
  * Abstract class for mongo models Models
  *
  * @package    Thunderlabid
- * @subpackage Territorial
+ * @subpackage Immigration
  * @author     C Mooy <chelsymooy1108@gmail.com>
  */
 abstract class BaseModel extends Model 
